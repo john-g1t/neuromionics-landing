@@ -208,29 +208,9 @@
             </p>
           </div>
 
-          <div class="additional-card">
-            <div class="additional-number">
-              05
-            </div>
-            <h3>Клинические испытания</h3>
-            <p>
-              Организация и проведение клинических испытаний медицинских изделий
-              по ГОСТ ISO 13485. Сотрудничество с медицинскими учреждениями,
-              статистическая обработка результатов.
-            </p>
-          </div>
+         
 
-          <div class="additional-card">
-            <div class="additional-number">
-              06
-            </div>
-            <h3>Сертификация</h3>
-            <p>
-              Помощь в получении регистрационных удостоверений Росздравнадзора,
-              сертификации программного обеспечения как медицинского изделия.
-              Подготовка документации и сопровождение процесса.
-            </p>
-          </div>
+        
         </div>
       </div>
     </section>
@@ -489,60 +469,7 @@
 
     <section class="expertise-section">
       <div class="container">
-        <h2 class="section-title">
-          Наша экспертиза
-        </h2>
-
-        <div class="expertise-grid">
-          <div class="expertise-card">
-            <div class="expertise-stat">
-              8-20
-            </div>
-            <div class="expertise-label">
-              каналов обработки ЭМГ
-            </div>
-          </div>
-          <div class="expertise-card">
-            <div class="expertise-stat">
-              1000 Гц
-            </div>
-            <div class="expertise-label">
-              частота дискретизации
-            </div>
-          </div>
-          <div class="expertise-card">
-            <div class="expertise-stat">
-              &lt;500 мс
-            </div>
-            <div class="expertise-label">
-              задержка системы
-            </div>
-          </div>
-          <div class="expertise-card">
-            <div class="expertise-stat">
-              &gt;90%
-            </div>
-            <div class="expertise-label">
-              точность детекции
-            </div>
-          </div>
-          <div class="expertise-card">
-            <div class="expertise-stat">
-              5 мин
-            </div>
-            <div class="expertise-label">
-              время калибровки
-            </div>
-          </div>
-          <div class="expertise-card">
-            <div class="expertise-stat">
-              4.5 Вт
-            </div>
-            <div class="expertise-label">
-              энергопотребление
-            </div>
-          </div>
-        </div>
+        
 
         <div class="stack-section">
           <h3>Технологический стек</h3>
@@ -604,63 +531,7 @@
       </div>
     </section>
 
-    <section class="guarantees-section">
-      <div class="container">
-        <h2 class="section-title">
-          Гарантии качества
-        </h2>
-
-        <div class="guarantees-grid">
-          <div class="guarantee-card">
-            <h3>Соответствие стандартам</h3>
-            <p>
-              Все разработки соответствуют ГОСТ ISO 13485 для медицинских изделий.
-              Проведение обязательных технических и клинических испытаний.
-            </p>
-          </div>
-
-          <div class="guarantee-card">
-            <h3>Защита данных</h3>
-            <p>
-              Шифрование персональных и медицинских данных в соответствии с 152-ФЗ.
-              Безопасная передача и хранение информации пациентов.
-            </p>
-          </div>
-
-          <div class="guarantee-card">
-            <h3>Документация</h3>
-            <p>
-              Полный пакет технической документации, инструкций для пользователя,
-              программ и методик испытаний. Регистрационные удостоверения.
-            </p>
-          </div>
-
-          <div class="guarantee-card">
-            <h3>Гарантийное обслуживание</h3>
-            <p>
-              Гарантия на оборудование от 12 месяцев. Бесплатное устранение
-              дефектов в гарантийный период. Возможность продления гарантии.
-            </p>
-          </div>
-
-          <div class="guarantee-card">
-            <h3>Техническая поддержка</h3>
-            <p>
-              Оперативная помощь в решении технических проблем. Консультации
-              по телефону, email и онлайн. Удалённая диагностика и настройка.
-            </p>
-          </div>
-
-          <div class="guarantee-card">
-            <h3>Регулярные обновления</h3>
-            <p>
-              Бесплатные обновления программного обеспечения в течение гарантийного
-              срока. Улучшение функционала и исправление ошибок.
-            </p>
-          </div>
-        </div>
-      </div>
-    </section>
+    
   </div>
 </template>
 
