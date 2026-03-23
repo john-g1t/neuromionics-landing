@@ -137,7 +137,10 @@ const currentYear = new Date().getFullYear()
 
 /* Footer Main */
 .footer-main {
-  background: #1a202c;
+  background:
+    radial-gradient(900px 400px at 15% 10%, rgba(102, 126, 234, 0.25), rgba(26, 32, 44, 0) 60%),
+    radial-gradient(800px 360px at 85% 10%, rgba(118, 75, 162, 0.22), rgba(26, 32, 44, 0) 55%),
+    #1a202c;
   color: #e2e8f0;
   padding: 60px 0 40px;
 }
@@ -250,7 +253,7 @@ const currentYear = new Date().getFullYear()
 }
 
 .footer-links a:hover {
-  color: #667eea;
+  color: var(--primary);
   transform: translateX(3px);
 }
 

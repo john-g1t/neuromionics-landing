@@ -10,6 +10,18 @@ export const routes: RouteRecordRaw[] = [
     meta: { inNavbar: true },
   },
   {
+    path: '/docs',
+    name: 'Документация',
+    component: () => import('@/views/docs-view.vue'),
+    meta: { inNavbar: true },
+  },
+  {
+    path: '/rightholder',
+    name: 'Правообладатель',
+    component: () => import('@/views/rightholder-view.vue'),
+    meta: { inNavbar: true },
+  },
+  {
     path: '/services',
     name: 'Услуги',
     component: () => import('@/views/services-view.vue'),

@@ -53,7 +53,9 @@ const open = ref(false)
 nav {
   position: absolute;
   inset: 70px 0 0 0;
-  background: var(--input);
+  background: rgba(0, 0, 0, 0.35);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
   border: var(--border) 1px solid;
   align-items: stretch;
   z-index: 10;

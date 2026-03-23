@@ -36,11 +36,16 @@ h1 {
 
 header {
   display: flex;
+  width: 100%;
+  background: rgba(26, 32, 44, 0.55);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
   border-bottom: 1px solid var(--border);
   padding: 10px;
   gap: 10px;
   align-items: center;
   justify-content: space-between;
+  transition: background 0.2s ease;
 }
 
 nav {
