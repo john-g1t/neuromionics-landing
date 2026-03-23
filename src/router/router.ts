@@ -38,7 +38,7 @@ export const routes: RouteRecordRaw[] = [
 export const navbarRoutes = routes.filter((route) => route.meta?.inNavbar)
 
 const router = createRouter({
-  history: createWebHistory('/neuromionics-landing/'),
+  history: createWebHistory(),
   routes,
   scrollBehavior() {
     window.scrollTo(0, 0)
