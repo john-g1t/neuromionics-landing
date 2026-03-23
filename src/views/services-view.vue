@@ -207,10 +207,6 @@
               системы на протяжении всего жизненного цикла.
             </p>
           </div>
-
-         
-
-        
         </div>
       </div>
     </section>
@@ -469,8 +465,6 @@
 
     <section class="expertise-section">
       <div class="container">
-        
-
         <div class="stack-section">
           <h3>Технологический стек</h3>
           <div class="stack-categories">
@@ -530,8 +524,6 @@
         </div>
       </div>
     </section>
-
-    
   </div>
 </template>
 

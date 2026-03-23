@@ -235,10 +235,6 @@
       </div>
     </section>
 
-    
-
-    
-
     <section class="applications-section">
       <div class="container">
         <h2 class="section-title">
@@ -288,8 +284,6 @@
         </div>
       </div>
     </section>
-
-   
   </div>
 </template>
 

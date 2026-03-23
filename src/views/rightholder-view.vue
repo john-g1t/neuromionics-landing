@@ -23,7 +23,9 @@
               Стоимость лицензии
             </h2>
             <div class="price-wrap">
-              <div class="price-label">для использования</div>
+              <div class="price-label">
+                для использования
+              </div>
               <div class="price">
                 5000<span class="ruble">р</span>
               </div>
@@ -314,4 +316,3 @@ export default defineComponent({
   }
 }
 </style>
-
