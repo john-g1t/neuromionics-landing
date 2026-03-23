@@ -2,7 +2,9 @@
   <div class="docs-view">
     <section class="hero-section">
       <div class="container">
-        <h1 class="hero-title">Документация</h1>
+        <h1 class="hero-title">
+          Документация
+        </h1>
         <p class="hero-subtitle">
           Информация и функциональные характеристики ПО «EEG Emulator V2.0».
         </p>
@@ -48,21 +50,9 @@
   </div>
 </template>
 
-<script lang="ts">
-import { defineComponent } from 'vue'
-
-import manualUrl from '@/docs/Документация, содержащая информацию, необходимую для эксплуатации экземпляра программного обеспечения «EEG Emulator V2.0» .pdf'
+<script setup lang="ts">
+import manualUrl from '@/docs/Документация, содержащая информацию, необходимую для эксплуатации экземпляра программного обеспечения «EEG Emulator V2.0».pdf'
 import specsUrl from '@/docs/Документация, содержащая описание функциональных характеристик программного обеспечения «EEG Emulator V2.0».pdf'
-
-export default defineComponent({
-  name: 'DocsView',
-  setup() {
-    return {
-      manualUrl,
-      specsUrl,
-    }
-  },
-})
 </script>
 
 <style scoped>
@@ -155,4 +145,3 @@ export default defineComponent({
   }
 }
 </style>
-
